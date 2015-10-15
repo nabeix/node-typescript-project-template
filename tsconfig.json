@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "outDir": "lib",
+        "rootDir": ".",
+        "sourceMap": false
+    },
+    "files": [
+    ]
+}
